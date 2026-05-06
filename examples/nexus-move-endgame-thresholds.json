@@ -1,0 +1,17 @@
+{
+  "repo": "nexus-move-endgame-mark",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 4,
+    "ship": 202,
+    "watch": 106
+  },
+  "terms": [
+    "position pressure",
+    "move ordering",
+    "search width",
+    "endgame risk"
+  ]
+}
